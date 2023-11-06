@@ -7,6 +7,7 @@ pipeline {
                 echo 'Hello World'
                 echo "running in ecs agent"
                 echo "code stored in Git Repo"
+                echo "inside JENKINS-POC-DEVESH"
             }
         }
     }
